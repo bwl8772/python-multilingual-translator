@@ -1,0 +1,17 @@
+type: edu
+files:
+  - name: test/__init__.py
+    learner_created: false
+  - name: test/tests.py
+    learner_created: false
+  - name: translator/translator.py
+    visible: true
+    learner_created: false
+  - name: tests.py
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/99/stages/543/implement#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Wed, 21 Oct 2026 16:34:39 UTC"
+record: -1
